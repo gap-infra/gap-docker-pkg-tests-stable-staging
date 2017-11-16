@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gap-system/gap-docker-pkg-tests-stable-staging.svg?branch=master)](https://travis-ci.org/gap-system/gap-docker-pkg-tests-stable-staging)
+
 # gap-docker-pkg-tests-stable-staging
 
 This repository is used to run standard tests for GAP packages prepared
