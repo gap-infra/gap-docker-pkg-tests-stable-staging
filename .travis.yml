@@ -9,9 +9,7 @@ env:
 - PKG_NAME=crime
 - PKG_NAME=ctbllib
 - PKG_NAME=fga
-- PKG_NAME=fining
 - PKG_NAME=float
-- PKG_NAME=fplsa
 - PKG_NAME=fr
 - PKG_NAME=gbnp
 - PKG_NAME=guarana
