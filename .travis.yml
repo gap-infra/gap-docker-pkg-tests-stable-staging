@@ -22,7 +22,6 @@ env:
 - PKG_NAME=loops
 - PKG_NAME=lpres
 - PKG_NAME=normalizinterface
-- PKG_NAME=polenta
 - PKG_NAME=polycyclic
 - PKG_NAME=polymaking
 - PKG_NAME=profiling
@@ -31,7 +30,7 @@ env:
 - PKG_NAME=semigroups
 - PKG_NAME=tomlib
 - PKG_NAME=unipot
-- PKG_NAME=xmod
+- PKG_NAME=wedderga
 - PKG_NAME=xmodalg
 
 services:
