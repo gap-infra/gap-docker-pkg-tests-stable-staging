@@ -4,7 +4,6 @@ language: c
 
 env:
 - PKG_NAME=alnuth
-- PKG_NAME=anupq
 - PKG_NAME=atlasrep
 - PKG_NAME=crime
 - PKG_NAME=ctbllib
