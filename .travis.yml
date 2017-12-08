@@ -3,7 +3,6 @@ sudo: required
 language: c
 
 env:
-- PKG_NAME=alnuth
 - PKG_NAME=atlasrep
 - PKG_NAME=crime
 - PKG_NAME=ctbllib
@@ -20,7 +19,6 @@ env:
 - PKG_NAME=linboxing
 - PKG_NAME=loops
 - PKG_NAME=lpres
-- PKG_NAME=normalizinterface
 - PKG_NAME=polycyclic
 - PKG_NAME=polymaking
 - PKG_NAME=profiling
