@@ -16,6 +16,7 @@ env:
 
   matrix:
     - PKG_NAME=atlasrep
+    - PKG_NAME=browse
     - PKG_NAME=crime
     - PKG_NAME=ctbllib
     - PKG_NAME=fga
