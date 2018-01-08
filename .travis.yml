@@ -32,6 +32,7 @@ env:
     - PKG_NAME=linboxing
     - PKG_NAME=loops
     - PKG_NAME=lpres
+    - PKG_NAME=nq
     - PKG_NAME=polycyclic
     - PKG_NAME=polymaking
     - PKG_NAME=profiling
