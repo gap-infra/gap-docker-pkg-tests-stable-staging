@@ -16,7 +16,6 @@ env:
 
   matrix:
     - PKG_NAME=atlasrep
-    - PKG_NAME=browse
     - PKG_NAME=crime
     - PKG_NAME=ctbllib
     - PKG_NAME=fga
@@ -27,18 +26,14 @@ env:
     - PKG_NAME=hap
     - PKG_NAME=hapcryst
     - PKG_NAME=happrime
-    - PKG_NAME=help
-    - PKG_NAME=idrel
     - PKG_NAME=linboxing
     - PKG_NAME=loops
-    - PKG_NAME=lpres
     - PKG_NAME=nq
     - PKG_NAME=polycyclic
     - PKG_NAME=polymaking
     - PKG_NAME=profiling
     - PKG_NAME=qaos
     - PKG_NAME=radiroot
-    - PKG_NAME=semigroups
     - PKG_NAME=tomlib
     - PKG_NAME=unipot
     - PKG_NAME=wedderga
